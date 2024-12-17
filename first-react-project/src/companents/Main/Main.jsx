@@ -1,5 +1,6 @@
 
 import Product from "./Product"
+import Counter from "./Counter"
 
 
 function Main() {
@@ -66,6 +67,7 @@ function Main() {
       "score":true
     }
   ]
+ 
   return (
     <>
       <section id="shop">
@@ -85,6 +87,7 @@ function Main() {
          }
         </div>
       </section>
+    <Counter/>
     </>
   )
 }

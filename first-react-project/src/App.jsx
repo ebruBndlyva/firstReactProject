@@ -1,6 +1,7 @@
 import Header from './companents/Header'
 import Footer from './companents/footer'
 import Main from './companents/Main/Main'
+
 import './App.css'
 
 function App() {
