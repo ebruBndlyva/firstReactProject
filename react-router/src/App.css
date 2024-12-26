@@ -1,0 +1,17 @@
+nav{
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  ul{
+    display: flex;
+    gap: 80px;
+    list-style-type: none;
+  li{
+    font-size: 1.2rem;
+    a{
+      text-decoration: none;
+      color: black;
+    }
+  }
+  }
+}

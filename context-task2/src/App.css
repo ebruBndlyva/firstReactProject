@@ -1,0 +1,26 @@
+.darkMode{
+  width: 100vw;
+  height: 100vh;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    button{
+      background-color: white;
+      color: black;
+    }
+}
+.lightMode{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+    background-color: white;
+    color: black;
+   
+}
+button{
+  margin-left: 10px;
+}
